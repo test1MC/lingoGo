@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="in-progress">
+  MadCap:translationStatus="SentForReview">
   <file
     xml:space="preserve"
     original="Topic.htm"
@@ -55,13 +55,17 @@
             MadCap:matchPercent="0">test</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
-        phase-name="pretrans"><source>Delete this text and replace it with your own content.</source><seg-source><mrk
+        phase-name="pretrans"><source>multi-program</source><seg-source><mrk
             mtype="seg"
-            mid="1">Delete this text and replace it with your own content.</mrk></seg-source><target
-          state="needs-translation"><mrk
+            mid="1">multi-program</mrk></seg-source><target
+          state="needs-review-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:segmentStatus="FuzzyMatch"
+            MadCap:matchPercent="7"
+            MadCap:diff="ContentChanged" /></target><alt-trans
+          match-quality="7"
+          origin="previous-version"><seg-source>Topic Title</seg-source><target
+            MadCap:segmentStatus="Untranslated">test</target></alt-trans></trans-unit></body>
   </file>
 </xliff>
