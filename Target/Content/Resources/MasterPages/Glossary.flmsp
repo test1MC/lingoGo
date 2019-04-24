@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:sourceDocument="C:\Users\lbalababa\Documents\My Doc-To-Help Projects\New Project (4)\Documents\Glossary.docx" xml:space="preserve">
+    <head><title></title>
+        <link href="../Stylesheets/Glossary.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div>
+            <p>Glossary of Terms</p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <p> </p>
+        </div>
+    </body>
+</html>

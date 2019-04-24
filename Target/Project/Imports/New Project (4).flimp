@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  ConvertEquations="true"
+  LastCollectTime="2019-04-10T13:28:12.2936043-07:00"
+  ProjectName="lingoexport"
+  ProjectFolder="C:\Users\lbalababa\Documents\My Projects\lingoexport\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/Styles.css"
+  LastImport="2019-04-10T13:29:06.6188415-07:00">
+  <Files>
+    <Url
+      Source="../../../../My Doc-To-Help Projects/New Project (4)/Documents/New Project (4).docx"
+      AbsoluteSource="file:///C:/Users/lbalababa/Documents/My Doc-To-Help Projects/New Project (4)/Documents/New Project (4).docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/New Project (4)/Chapter 1.htm"
+      TimeStamp="4/10/2019 1:28:56 PM" />
+    <Url
+      Source="../TOCs/New Project (4).fltoc"
+      TimeStamp="4/10/2019 1:28:56 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/New Project (4).flmsp"
+      TimeStamp="4/10/2019 1:28:56 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Styles_1.css"
+      TimeStamp="4/10/2019 1:28:56 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Body Text" />
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>
