@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LingoProject TargetLanguage="ja-jp" xml:lang="ja-jp" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlDatabase="C:\Users\lbalababa\Documents\My Translated Projects\LingoExport.liprjf\.git" SourceControlProviderType="Git" ProjectGuid="341a1dc2-2b55-4fb0-afae-525dbfa3da93" SourceControlDatabaseRoot="C:\Users\lbalababa\Documents\My Translated Projects\LingoExport.liprjf">
     <ProjectFile Source="Target/lingoexport.flprj" Target="Target/lingoexport.flprj" />
+    <TMConnection Connection="King Test TM.db" ReadOnly="false" Type="StandAlone" />
 </LingoProject>
